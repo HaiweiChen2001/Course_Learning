@@ -1,0 +1,414 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "/home/harvey/Documents/my_ws/devel/lib/librviz_plugins.so"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_install",
+			"install",
+			"target_link_libraries",
+			"add_definitions",
+			"include",
+			"find_package",
+			"configure_shared_library_build_settings",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"rviz_plugins/CMakeLists.txt",
+			"/opt/ros/noetic/share/catkin/cmake/custom_install.cmake",
+			"/opt/ros/noetic/share/rosconsole/cmake/rosconsole-extras.cmake",
+			"/opt/ros/noetic/share/rosconsole/cmake/rosconsoleConfig.cmake",
+			"/opt/ros/noetic/share/roscpp/cmake/roscppConfig.cmake",
+			"/opt/ros/noetic/share/message_filters/cmake/message_filtersConfig.cmake",
+			"/opt/ros/noetic/share/image_transport/cmake/image_transportConfig.cmake",
+			"/opt/ros/noetic/share/rviz/cmake/rvizConfig.cmake",
+			"/opt/ros/noetic/share/catkin/cmake/catkinConfig.cmake",
+			"/opt/ros/noetic/share/catkin/cmake/tools/libraries.cmake",
+			"/opt/ros/noetic/share/catkin/cmake/all.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 83,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 13,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 85,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 53,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"file" : 8,
+				"parent" : 6
+			},
+			{
+				"command" : 6,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 7
+			},
+			{
+				"file" : 7,
+				"parent" : 8
+			},
+			{
+				"command" : 6,
+				"file" : 7,
+				"line" : 197,
+				"parent" : 9
+			},
+			{
+				"file" : 6,
+				"parent" : 10
+			},
+			{
+				"command" : 6,
+				"file" : 6,
+				"line" : 197,
+				"parent" : 11
+			},
+			{
+				"file" : 5,
+				"parent" : 12
+			},
+			{
+				"command" : 6,
+				"file" : 5,
+				"line" : 197,
+				"parent" : 13
+			},
+			{
+				"file" : 4,
+				"parent" : 14
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 197,
+				"parent" : 15
+			},
+			{
+				"file" : 3,
+				"parent" : 16
+			},
+			{
+				"command" : 5,
+				"file" : 3,
+				"line" : 222,
+				"parent" : 17
+			},
+			{
+				"file" : 2,
+				"parent" : 18
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 12,
+				"parent" : 19
+			},
+			{
+				"file" : 11
+			},
+			{
+				"command" : 6,
+				"file" : 11,
+				"line" : 58,
+				"parent" : 21
+			},
+			{
+				"file" : 8,
+				"parent" : 22
+			},
+			{
+				"command" : 5,
+				"file" : 8,
+				"line" : 20,
+				"parent" : 23
+			},
+			{
+				"file" : 10,
+				"parent" : 24
+			},
+			{
+				"command" : 7,
+				"file" : 10,
+				"line" : 174,
+				"parent" : 25
+			},
+			{
+				"command" : 4,
+				"file" : 9,
+				"line" : 18,
+				"parent" : 26
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 8,
+				"parent" : 19
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 78,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 79,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-fPIC  "
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "QT_NO_DEBUG"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_NO_KEYWORDS"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "QT_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "ROSCONSOLE_BACKEND_LOG4CXX"
+				},
+				{
+					"backtrace" : 27,
+					"define" : "ROS_BUILD_SHARED_LIBS=1"
+				},
+				{
+					"backtrace" : 28,
+					"define" : "ROS_PACKAGE_NAME=\"rviz_plugins\""
+				},
+				{
+					"define" : "rviz_plugins_EXPORTS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 29,
+					"path" : "/home/harvey/Documents/my_ws/src/rviz_plugins/include"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "/opt/ros/noetic/include"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "/usr/include/eigen3"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "/usr/include/OGRE/Overlay"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "/usr/include/OGRE"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "/usr/include/x86_64-linux-gnu/qt5"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "/usr/include/x86_64-linux-gnu/qt5/QtWidgets"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "/usr/include/x86_64-linux-gnu/qt5/QtGui"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "/usr/include/x86_64-linux-gnu/qt5/QtCore"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"id" : "rviz_plugins::@17b0da04265298694855",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 3,
+				"path" : "lib"
+			},
+			{
+				"backtrace" : 3,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/home/harvey/Documents/my_ws/install"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.12.8",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.12.8",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libQt5Core.so.5.12.8",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "rviz_plugins",
+	"nameOnDisk" : "librviz_plugins.so",
+	"paths" : 
+	{
+		"build" : "rviz_plugins",
+		"source" : "rviz_plugins"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				3
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rviz_plugins/src/pose_tool.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rviz_plugins/src/goal_tool.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/harvey/Documents/my_ws/build/rviz_plugins/src/moc_goal_tool.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/harvey/Documents/my_ws/build/rviz_plugins/src/moc_goal_tool.cpp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

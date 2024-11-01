@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/usr/include/**",
+        "/usr/include/c++/9/**",
+        "/usr/include/x86_64-linux-gnu/c++/9/**",
+        "/usr/include/c++/9/backward/**",
+        "/usr/lib/gcc/x86_64-linux-gnu/9/include/**",
+        "/usr/local/include/**",
+        "/usr/include/x86_64-linux-gnu/**",
+        "${workspaceFolder}/src/grid_path_searcher/include"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/g++",
+      "cStandard": "gnu11",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}

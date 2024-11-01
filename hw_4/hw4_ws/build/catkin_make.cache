@@ -1,0 +1,2 @@
+grid_path_searcher:rviz_plugins:waypoint_generator
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/harvey/Documents/hw4_ws/devel -DCMAKE_INSTALL_PREFIX=/home/harvey/Documents/hw4_ws/install -G Unix Makefiles
