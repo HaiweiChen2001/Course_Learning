@@ -1,8 +1,0 @@
-prefix=/home/harvey/Documents/hw4_ws/install
-
-Name: grid_path_searcher
-Description: Description of grid_path_searcher
-Version: 0.0.1
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: 

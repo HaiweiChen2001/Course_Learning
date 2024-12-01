@@ -1,8 +1,0 @@
-prefix=/home/harvey/Documents/hw3_ws/devel
-
-Name: rviz_plugins
-Description: Description of rviz_plugins
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
