@@ -1,0 +1,278 @@
+[
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqpstatic.dir/src/auxil.c.o -c /home/harvey/Downloads/mpc/osqp/src/auxil.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/auxil.c",
+  "output": "CMakeFiles/osqpstatic.dir/src/auxil.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqpstatic.dir/src/error.c.o -c /home/harvey/Downloads/mpc/osqp/src/error.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/error.c",
+  "output": "CMakeFiles/osqpstatic.dir/src/error.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqpstatic.dir/src/lin_alg.c.o -c /home/harvey/Downloads/mpc/osqp/src/lin_alg.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/lin_alg.c",
+  "output": "CMakeFiles/osqpstatic.dir/src/lin_alg.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqpstatic.dir/src/osqp.c.o -c /home/harvey/Downloads/mpc/osqp/src/osqp.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/osqp.c",
+  "output": "CMakeFiles/osqpstatic.dir/src/osqp.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqpstatic.dir/src/proj.c.o -c /home/harvey/Downloads/mpc/osqp/src/proj.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/proj.c",
+  "output": "CMakeFiles/osqpstatic.dir/src/proj.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqpstatic.dir/src/scaling.c.o -c /home/harvey/Downloads/mpc/osqp/src/scaling.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/scaling.c",
+  "output": "CMakeFiles/osqpstatic.dir/src/scaling.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqpstatic.dir/src/util.c.o -c /home/harvey/Downloads/mpc/osqp/src/util.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/util.c",
+  "output": "CMakeFiles/osqpstatic.dir/src/util.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqpstatic.dir/src/kkt.c.o -c /home/harvey/Downloads/mpc/osqp/src/kkt.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/kkt.c",
+  "output": "CMakeFiles/osqpstatic.dir/src/kkt.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqpstatic.dir/src/cs.c.o -c /home/harvey/Downloads/mpc/osqp/src/cs.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/cs.c",
+  "output": "CMakeFiles/osqpstatic.dir/src/cs.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqpstatic.dir/src/polish.c.o -c /home/harvey/Downloads/mpc/osqp/src/polish.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/polish.c",
+  "output": "CMakeFiles/osqpstatic.dir/src/polish.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqpstatic.dir/src/lin_sys.c.o -c /home/harvey/Downloads/mpc/osqp/src/lin_sys.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/lin_sys.c",
+  "output": "CMakeFiles/osqpstatic.dir/src/lin_sys.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqpstatic.dir/src/ctrlc.c.o -c /home/harvey/Downloads/mpc/osqp/src/ctrlc.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/ctrlc.c",
+  "output": "CMakeFiles/osqpstatic.dir/src/ctrlc.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqpstatic.dir/lin_sys/lib_handler.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/lib_handler.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/lib_handler.c",
+  "output": "CMakeFiles/osqpstatic.dir/lin_sys/lib_handler.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc -Dosqp_EXPORTS -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqp.dir/src/auxil.c.o -c /home/harvey/Downloads/mpc/osqp/src/auxil.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/auxil.c",
+  "output": "CMakeFiles/osqp.dir/src/auxil.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc -Dosqp_EXPORTS -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqp.dir/src/error.c.o -c /home/harvey/Downloads/mpc/osqp/src/error.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/error.c",
+  "output": "CMakeFiles/osqp.dir/src/error.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc -Dosqp_EXPORTS -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqp.dir/src/lin_alg.c.o -c /home/harvey/Downloads/mpc/osqp/src/lin_alg.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/lin_alg.c",
+  "output": "CMakeFiles/osqp.dir/src/lin_alg.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc -Dosqp_EXPORTS -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqp.dir/src/osqp.c.o -c /home/harvey/Downloads/mpc/osqp/src/osqp.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/osqp.c",
+  "output": "CMakeFiles/osqp.dir/src/osqp.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc -Dosqp_EXPORTS -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqp.dir/src/proj.c.o -c /home/harvey/Downloads/mpc/osqp/src/proj.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/proj.c",
+  "output": "CMakeFiles/osqp.dir/src/proj.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc -Dosqp_EXPORTS -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqp.dir/src/scaling.c.o -c /home/harvey/Downloads/mpc/osqp/src/scaling.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/scaling.c",
+  "output": "CMakeFiles/osqp.dir/src/scaling.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc -Dosqp_EXPORTS -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqp.dir/src/util.c.o -c /home/harvey/Downloads/mpc/osqp/src/util.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/util.c",
+  "output": "CMakeFiles/osqp.dir/src/util.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc -Dosqp_EXPORTS -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqp.dir/src/kkt.c.o -c /home/harvey/Downloads/mpc/osqp/src/kkt.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/kkt.c",
+  "output": "CMakeFiles/osqp.dir/src/kkt.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc -Dosqp_EXPORTS -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqp.dir/src/cs.c.o -c /home/harvey/Downloads/mpc/osqp/src/cs.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/cs.c",
+  "output": "CMakeFiles/osqp.dir/src/cs.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc -Dosqp_EXPORTS -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqp.dir/src/polish.c.o -c /home/harvey/Downloads/mpc/osqp/src/polish.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/polish.c",
+  "output": "CMakeFiles/osqp.dir/src/polish.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc -Dosqp_EXPORTS -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqp.dir/src/lin_sys.c.o -c /home/harvey/Downloads/mpc/osqp/src/lin_sys.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/lin_sys.c",
+  "output": "CMakeFiles/osqp.dir/src/lin_sys.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc -Dosqp_EXPORTS -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqp.dir/src/ctrlc.c.o -c /home/harvey/Downloads/mpc/osqp/src/ctrlc.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/src/ctrlc.c",
+  "output": "CMakeFiles/osqp.dir/src/ctrlc.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc -Dosqp_EXPORTS -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/osqp.dir/lin_sys/lib_handler.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/lib_handler.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/lib_handler.c",
+  "output": "CMakeFiles/osqp.dir/lin_sys/lib_handler.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIE -o CMakeFiles/osqp_demo.dir/examples/osqp_demo.c.o -c /home/harvey/Downloads/mpc/osqp/examples/osqp_demo.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/examples/osqp_demo.c",
+  "output": "CMakeFiles/osqp_demo.dir/examples/osqp_demo.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/linsys_pardiso.dir/pardiso/pardiso_interface.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso/pardiso_interface.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso/pardiso_interface.c",
+  "output": "lin_sys/direct/CMakeFiles/linsys_pardiso.dir/pardiso/pardiso_interface.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/linsys_pardiso.dir/pardiso/pardiso_loader.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso/pardiso_loader.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/pardiso/pardiso_loader.c",
+  "output": "lin_sys/direct/CMakeFiles/linsys_pardiso.dir/pardiso/pardiso_loader.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct/qdldl",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_1.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_1.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_1.c",
+  "output": "lin_sys/direct/qdldl/CMakeFiles/linsys_qdldl.dir/amd/src/amd_1.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct/qdldl",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_2.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_2.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_2.c",
+  "output": "lin_sys/direct/qdldl/CMakeFiles/linsys_qdldl.dir/amd/src/amd_2.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct/qdldl",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_aat.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_aat.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_aat.c",
+  "output": "lin_sys/direct/qdldl/CMakeFiles/linsys_qdldl.dir/amd/src/amd_aat.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct/qdldl",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_control.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_control.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_control.c",
+  "output": "lin_sys/direct/qdldl/CMakeFiles/linsys_qdldl.dir/amd/src/amd_control.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct/qdldl",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_defaults.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_defaults.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_defaults.c",
+  "output": "lin_sys/direct/qdldl/CMakeFiles/linsys_qdldl.dir/amd/src/amd_defaults.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct/qdldl",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_info.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_info.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_info.c",
+  "output": "lin_sys/direct/qdldl/CMakeFiles/linsys_qdldl.dir/amd/src/amd_info.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct/qdldl",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_order.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_order.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_order.c",
+  "output": "lin_sys/direct/qdldl/CMakeFiles/linsys_qdldl.dir/amd/src/amd_order.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct/qdldl",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_post_tree.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_post_tree.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_post_tree.c",
+  "output": "lin_sys/direct/qdldl/CMakeFiles/linsys_qdldl.dir/amd/src/amd_post_tree.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct/qdldl",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_postorder.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_postorder.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_postorder.c",
+  "output": "lin_sys/direct/qdldl/CMakeFiles/linsys_qdldl.dir/amd/src/amd_postorder.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct/qdldl",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_preprocess.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_preprocess.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_preprocess.c",
+  "output": "lin_sys/direct/qdldl/CMakeFiles/linsys_qdldl.dir/amd/src/amd_preprocess.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct/qdldl",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/linsys_qdldl.dir/amd/src/amd_valid.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_valid.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/amd_valid.c",
+  "output": "lin_sys/direct/qdldl/CMakeFiles/linsys_qdldl.dir/amd/src/amd_valid.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct/qdldl",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/linsys_qdldl.dir/amd/src/SuiteSparse_config.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/SuiteSparse_config.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/src/SuiteSparse_config.c",
+  "output": "lin_sys/direct/qdldl/CMakeFiles/linsys_qdldl.dir/amd/src/SuiteSparse_config.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct/qdldl",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/amd/include -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include -I/home/harvey/Downloads/mpc/osqp/include  -O3 -fPIC -o CMakeFiles/linsys_qdldl.dir/qdldl_interface.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_interface.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_interface.c",
+  "output": "lin_sys/direct/qdldl/CMakeFiles/linsys_qdldl.dir/qdldl_interface.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct/qdldl/qdldl_sources",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include  -O3 -O3 -fPIC -o CMakeFiles/qdldlobject.dir/src/qdldl.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/src/qdldl.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/src/qdldl.c",
+  "output": "lin_sys/direct/qdldl/qdldl_sources/CMakeFiles/qdldlobject.dir/src/qdldl.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct/qdldl/qdldl_sources",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include  -O3 -O3 -fPIC -o CMakeFiles/qdldlstatic.dir/src/qdldl.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/src/qdldl.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/src/qdldl.c",
+  "output": "lin_sys/direct/qdldl/qdldl_sources/CMakeFiles/qdldlstatic.dir/src/qdldl.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct/qdldl/qdldl_sources",
+  "command": "/usr/bin/cc -Dqdldl_EXPORTS -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include  -O3 -O3 -fPIC -o CMakeFiles/qdldl.dir/src/qdldl.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/src/qdldl.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/src/qdldl.c",
+  "output": "lin_sys/direct/qdldl/qdldl_sources/CMakeFiles/qdldl.dir/src/qdldl.c.o"
+},
+{
+  "directory": "/home/harvey/Downloads/mpc/osqp/build/lin_sys/direct/qdldl/qdldl_sources",
+  "command": "/usr/bin/cc  -I/home/harvey/Downloads/mpc/osqp/lin_sys -I/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/include  -O3 -O3 -fPIE -o CMakeFiles/qdldl_example.dir/examples/example.c.o -c /home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/examples/example.c",
+  "file": "/home/harvey/Downloads/mpc/osqp/lin_sys/direct/qdldl/qdldl_sources/examples/example.c",
+  "output": "lin_sys/direct/qdldl/qdldl_sources/CMakeFiles/qdldl_example.dir/examples/example.c.o"
+}
+]
