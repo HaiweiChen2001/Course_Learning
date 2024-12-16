@@ -388,11 +388,16 @@ Eigen::Vector2d ArcSpline::operator()(double s, int n /* =0 */) {
   return p;
 };
 
+/*
+* 计算一个点p到一条样条曲线上所有点的距离，找出距离最小的曲线参数s所在的位置点，这个s值对应于样条曲线在最接近点P处的参数值。
+* s是样条曲线上的参数，通常是指沿着曲线从起点到终点的距离或弧长
+*/
 inline double ArcSpline::findS(const Eigen::Vector2d& p) {
   // TODO a more efficient and accurate method
   double min_dist = (operator()(sL_.front()) - p).norm();
   double min_s = sL_.front();
   for (double s = sL_.front(); s < sL_.back(); s += 0.01) {
+   # operator()(s) 获取曲线在 s 位置的点，计算该点与输入点 p 之间的距离 dist
     double dist = (operator()(s) - p).norm();
     if (dist < min_dist) {
       min_s = s;
