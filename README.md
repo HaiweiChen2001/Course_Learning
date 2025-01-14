@@ -1,4 +1,7 @@
 # Course_Learning
-Commitment to documenting my completed coursework
 
-看branch的分支，东西主要在分支
+本仓库为CMU16-745课程作业代码。
+本人能力有限，代码虽通过测试，但不免存在bug，仅供参考。
+
+
+非常感谢同门的推荐，使我步入了最优控制的舞台。
