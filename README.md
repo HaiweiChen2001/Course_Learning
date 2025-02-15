@@ -20,7 +20,7 @@ Planning：开环的Control。已知系统模型，预测系统输入之后，�
 
 Control：闭环的Planning。在实际运行中，通过设计合适的控制器去弥补模型的mismatch和外部扰动。
 
-更多先进控制器的话，可参考[Geometric Tracking Control of a Quadrotor UAV on SE(3)](https://arxiv.org/abs/1411.2986) 和 [Minimum Snap Trajectory Generation and Control for Quadrotors](https://ieeexplore.ieee.org/document/5980409)，其中介绍的SE(3)控制器是之后学界主流运用的四旋翼控制的源头。
+更多先进控制器的话，可参考[Geometric Tracking Control of a Quadrotor UAV on SE(3)](https://arxiv.org/abs/1411.2986) 和 [Minimum Snap Trajectory Generation and Control for Quadrotors](https://ieeexplore.ieee.org/document/5980409)，其中介绍的SE(3)控制器是之后学界运用的主流四旋翼控制的源头。
 
 
 知识来源为[无人机系统 - 高飞组超全讲解！2021ROS暑期学校 第五天精剪回放](https://www.bilibili.com/video/BV1Jq4y1T7QD?spm_id_from=333.788.videopod.episodes&vd_source=d59d7bc22106d87da35c63b8af6491e8&p=3) 和 北航全权老师的《多旋翼飞行器设计与控制》
