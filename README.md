@@ -1,4 +1,10 @@
-# Course_Learning
-Commitment to documenting my completed coursework
+# UAV Linar Control for matlab
 
-看branch的分支，东西主要在分支
+本仓库为经典四旋翼无人机的线性控制在matlab中的仿真代码。
+
+
+
+
+
+
+
