@@ -9,6 +9,7 @@
 **不在PX4中直接使用位置命令和速度命令**
 
 ![c1876e1aaf98a99124fc37c62c19c5d](https://github.com/user-attachments/assets/92d4e32f-cd78-46af-8d74-936d018ccab9)
+![1e23cff093ecb1bd37a3e8a6cc3247b](https://github.com/user-attachments/assets/c1669c1b-2f06-480a-ac16-20707b760b62)
 
 
 MPC：其实更像一个规划器，规划接下来一段时间，每间隔 $\Delta T$为一个状态，规划每个状态应该取什么，使系统指标尽可能小。相比于多项式轨迹规划，MPC规划的就是一个个状态量，状态量之间存在关系。
